@@ -1,4 +1,5 @@
 #Proje klasör yapısının ekran görüntüsü
+<br>
 <img width="600" height="1384" alt="image" src="https://github.com/user-attachments/assets/eb11ce11-db65-4450-b2c8-bbf0c41578a2" />
 #Uygulamanın çalışması
 <img width="367" height="703" alt="Ekran Resmi 2025-12-06 18 08 23" src="https://github.com/user-attachments/assets/a5f3cbd8-be1d-4d4b-a556-0100da9ef8ac" />
