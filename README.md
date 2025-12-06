@@ -1,97 +1,40 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+#Proje klasör yapısının ekran görüntüsü
+<img width="600" height="1384" alt="image" src="https://github.com/user-attachments/assets/eb11ce11-db65-4450-b2c8-bbf0c41578a2" />
+#Uygulamanın çalışması
+<img width="367" height="703" alt="Ekran Resmi 2025-12-06 18 08 23" src="https://github.com/user-attachments/assets/a5f3cbd8-be1d-4d4b-a556-0100da9ef8ac" />
+<img width="314" height="670" alt="Ekran Resmi 2025-12-06 18 08 07" src="https://github.com/user-attachments/assets/d70ad0df-7da7-4353-83b1-ccd38c961b13" />
+<img width="344" height="751" alt="Ekran Resmi 2025-12-06 18 07 33" src="https://github.com/user-attachments/assets/8f63552e-1eae-4c4f-b6a0-aa01bac17706" />
 
-# Getting Started
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
-## Step 1: Start Metro
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+Ödev kapsamında yer alan soruların cevaplarına aşağıda yer verilmektedir.
+#Cevap 1:
+<img width="604" height="246" alt="Ekran Resmi 2025-12-05 00 16 44" src="https://github.com/user-attachments/assets/7c8de897-d2d8-499c-b3c7-e304d0343459" />
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+#Cevap 2:
 
-```sh
-# Using npm
-npm start
+<img width="327" height="676" alt="Ekran Resmi 2025-12-05 00 21 50" src="https://github.com/user-attachments/assets/e66bd47e-55da-4607-9abb-1b1655f63f98" />
+<img width="321" height="665" alt="Ekran Resmi 2025-12-05 00 21 40" src="https://github.com/user-attachments/assets/d96627b2-6a52-4dd7-ab2c-edfdba9f80d2" />
+<img width="320" height="676" alt="Ekran Resmi 2025-12-05 00 21 27" src="https://github.com/user-attachments/assets/41e87a37-521c-481e-bd2f-7d7cfc9f5fad" />
 
-# OR using Yarn
-yarn start
-```
+#Cevap 3:
+<img width="322" height="669" alt="Ekran Resmi 2025-12-05 01 07 10" src="https://github.com/user-attachments/assets/3f37d7be-2f0e-420b-805c-73faed671abe" />
+<img width="326" height="669" alt="Ekran Resmi 2025-12-05 01 06 45" src="https://github.com/user-attachments/assets/2bb43aa5-cfb7-42c3-9007-4d2ca036dcae" />
+<img width="349" height="693" alt="Ekran Resmi 2025-12-05 01 03 57" src="https://github.com/user-attachments/assets/418d6576-c40b-46be-9c6e-bc9012b9ca62" />
 
-## Step 2: Build and run your app
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+#Cevap 4:
+<img width="344" height="718" alt="Ekran Resmi 2025-12-05 14 34 14" src="https://github.com/user-attachments/assets/115b844d-1fc0-46a4-9619-79a873ff9076" />
+<img width="609" height="636" alt="Ekran Resmi 2025-12-05 14 33 41" src="https://github.com/user-attachments/assets/63195204-654a-49a8-84c8-6ea697c7ab4a" />
+<img width="1889" height="206" alt="Ekran Resmi 2025-12-05 14 30 13" src="https://github.com/user-attachments/assets/ed5cd35a-e40c-40ce-abcb-43a0a79d079b" />
 
-### Android
 
-```sh
-# Using npm
-npm run android
+#Cevap5:
 
-# OR using Yarn
-yarn android
-```
+<img width="357" height="695" alt="Ekran Resmi 2025-12-05 15 06 46" src="https://github.com/user-attachments/assets/036759b2-f0c8-402c-880d-86ea6632a6c6" />
+<img width="620" height="715" alt="Ekran Resmi 2025-12-05 15 05 24" src="https://github.com/user-attachments/assets/6bb5d7c2-d379-4662-8f1e-fa5805756b12" />
 
-### iOS
+#Cevap 6:
+<img width="324" height="665" alt="Ekran Resmi 2025-12-05 15 07 24" src="https://github.com/user-attachments/assets/4f3b3b22-6bcc-4475-a447-93a589369fa0" />
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
-
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
-
-```sh
-bundle install
-```
-
-Then, and every time you update your native dependencies, run:
-
-```sh
-bundle exec pod install
-```
-
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
-
-```sh
-# Using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
-
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
-
-## Step 3: Modify your app
-
-Now that you have successfully run the app, let's make changes!
-
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
-
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
-
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
